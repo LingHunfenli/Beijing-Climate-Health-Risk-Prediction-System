@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.env
+
+# Harness
+node_modules/
+.claude/reviews/
+.claude/loops/
+.claude/.upgrade-backups/
+.claude/.upgrade-tmp/
+.DS_Store
+Thumbs.db
+*.local.json
+.codegraph/
